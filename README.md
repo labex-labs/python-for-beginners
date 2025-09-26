@@ -16,39 +16,13 @@ Kickstart your Python programming journey with this comprehensive beginner cours
 
 ## Exercises
 
-|   Index | Name                                                        | Difficulty   | Practice                                                                                                                                    |
-|---------|-------------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 🟢 Explore Python Development Tools                      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-explore-python-development-tools-585762'>Start Lab</a>                           |
-|      02 | 📖 🟢 Use VS Code for Python Development                    | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-use-vs-code-for-python-development-585783'>Start Lab</a>                         |
-|      03 | 📖 🟢 Write and Debug a Simple Python Program               | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-write-and-debug-a-simple-python-program-585786'>Start Lab</a>                    |
-|      04 | 📖 🟢 Understand Character Encoding in Python               | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-understand-character-encoding-in-python-585770'>Start Lab</a>                    |
-|      05 | 📖 🟢 Understand Identifiers in Python                      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-understand-identifiers-in-python-585776'>Start Lab</a>                           |
-|      06 | 📖 🟢 Understand Keywords and Built-in Identifiers in Py... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-understand-keywords-and-built-in-identifiers-in-python-585777'>Start Lab</a>     |
-|      07 | 📖 🟢 Add Comments in Python                                | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-add-comments-in-python-585756'>Start Lab</a>                                     |
-|      08 | 📖 🟢 Handle Input and Output in Python                     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-handle-input-and-output-in-python-585765'>Start Lab</a>                          |
-|      09 | 📖 🟢 Import Modules and Packages in Python                 | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-import-modules-and-packages-in-python-585766'>Start Lab</a>                      |
-|      10 | 📖 🟢 Apply PEP 8 Code Style in Python                      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-apply-pep-8-code-style-in-python-585757'>Start Lab</a>                           |
-|      11 | 📖 🟢 Understand Number Types and Operations in Python      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-understand-number-types-and-operations-in-python-585779'>Start Lab</a>           |
-|      12 | 📖 🟢 Work with Strings in Python                           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-work-with-strings-in-python-585785'>Start Lab</a>                                |
-|      13 | 📖 🟢 Understand and Use Tuples in Python                   | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-understand-and-use-tuples-in-python-585769'>Start Lab</a>                        |
-|      14 | 📖 🟢 Manipulate Lists in Python                            | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-manipulate-lists-in-python-585768'>Start Lab</a>                                 |
-|      15 | 📖 🟢 Work with Sets in Python                              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-work-with-sets-in-python-585784'>Start Lab</a>                                   |
-|      16 | 📖 🟢 Manage Dictionaries in Python                         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-manage-dictionaries-in-python-585767'>Start Lab</a>                              |
-|      17 | 📖 🟢 Understand Operators in Python                        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-understand-operators-in-python-585781'>Start Lab</a>                             |
-|      18 | 📖 🟢 Understand Operator Precedence in Python              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-understand-operator-precedence-in-python-585780'>Start Lab</a>                   |
-|      19 | 📖 🟢 Control Program Flow with Conditional Statements i... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-control-program-flow-with-conditional-statements-in-python-585758'>Start Lab</a> |
-|      20 | 📖 🟢 Understand Loops in Python                            | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-understand-loops-in-python-585778'>Start Lab</a>                                 |
-|      21 | 📖 🟢 Define and Use Functions in Python                    | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-define-and-use-functions-in-python-585759'>Start Lab</a>                         |
-|      22 | 📖 🟢 Understand Function Parameters in Python              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-understand-function-parameters-in-python-585774'>Start Lab</a>                   |
-|      23 | 📖 🟢 Understand Function Return Values and Scope in Pyt... | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-understand-function-return-values-and-scope-in-python-585775'>Start Lab</a>      |
-|      24 | 📖 🟢 Use Lambda Functions in Python                        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-use-lambda-functions-in-python-585782'>Start Lab</a>                             |
-|      25 | 📖 🟢 Documenting Python Functions with Docstrings          | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-documenting-python-functions-with-docstrings-585761'>Start Lab</a>               |
-|      26 | 📖 🟢 Understand Errors and Exceptions in Python            | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-understand-errors-and-exceptions-in-python-585773'>Start Lab</a>                 |
-|      27 | 📖 🟢 Handle Exceptions with try except in Python           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-handle-exceptions-with-try-except-in-python-585764'>Start Lab</a>                |
-|      28 | 📖 🟢 Define Classes and Objects in Python                  | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-define-classes-and-objects-in-python-585760'>Start Lab</a>                       |
-|      29 | 📖 🟢 Understand Class Features in Python                   | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-understand-class-features-in-python-585771'>Start Lab</a>                        |
-|      30 | 📖 🟢 Explore Special Methods in Python Classes             | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-explore-special-methods-in-python-classes-585763'>Start Lab</a>                  |
-|      31 | 📖 🟢 Understand Decorators in Python                       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-understand-decorators-in-python-585772'>Start Lab</a>                            |
+|   Index | Name                                          | Difficulty   | Practice                                                                                                                 |
+|---------|-----------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------|
+|       1 | 📖 🆓 Explore Python Development Tools        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-explore-python-development-tools-585762'>Start Lab</a>        |
+|       2 | 📖 🆓 Use VS Code for Python Development      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-use-vs-code-for-python-development-585783'>Start Lab</a>      |
+|       3 | 📖 🆓 Write and Debug a Simple Python Program | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-write-and-debug-a-simple-python-program-585786'>Start Lab</a> |
+|       4 | 📖 🆓 Understand Character Encoding in Python | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-understand-character-encoding-in-python-585770'>Start Lab</a> |
+|       5 | 📖 🆓 Understand Identifiers in Python        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-understand-identifiers-in-python-585776'>Start Lab</a>        |
 
 ## Environment
 
