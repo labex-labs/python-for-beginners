@@ -16,39 +16,13 @@
 
 ## 연습
 
-|   인덱스 | 이름                                                       | 난이도   | 연습                                                                                                                                           |
-|----------|------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 🟢 파이썬 개발 도구 탐색                                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-explore-python-development-tools-585762'>실습 시작</a>                           |
-|       02 | 📖 🟢 VS Code 를 활용한 파이썬 개발                        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-use-vs-code-for-python-development-585783'>실습 시작</a>                         |
-|       03 | 📖 🟢 간단한 Python 프로그램 작성 및 디버깅                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-write-and-debug-a-simple-python-program-585786'>실습 시작</a>                    |
-|       04 | 📖 🟢 Python 에서 문자 인코딩 이해하기                     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-understand-character-encoding-in-python-585770'>실습 시작</a>                    |
-|       05 | 📖 🟢 Python 식별자 이해하기                               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-understand-identifiers-in-python-585776'>실습 시작</a>                           |
-|       06 | 📖 🟢 Python 키워드 및 내장 식별자 이해하기                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-understand-keywords-and-built-in-identifiers-in-python-585777'>실습 시작</a>     |
-|       07 | 📖 🟢 Python 에서 주석 추가하기                            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-add-comments-in-python-585756'>실습 시작</a>                                     |
-|       08 | 📖 🟢 Python 에서 입출력 처리하기                          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-handle-input-and-output-in-python-585765'>실습 시작</a>                          |
-|       09 | 📖 🟢 Python 에서 모듈 및 패키지 가져오기                  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-import-modules-and-packages-in-python-585766'>실습 시작</a>                      |
-|       10 | 📖 🟢 Python 에서 PEP 8 코드 스타일 적용하기               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-apply-pep-8-code-style-in-python-585757'>실습 시작</a>                           |
-|       11 | 📖 🟢 Python 의 숫자 유형 및 연산 이해하기                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-understand-number-types-and-operations-in-python-585779'>실습 시작</a>           |
-|       12 | 📖 🟢 Python 에서 문자열 다루기                            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-work-with-strings-in-python-585785'>실습 시작</a>                                |
-|       13 | 📖 🟢 Python 튜플 이해 및 사용법                           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-understand-and-use-tuples-in-python-585769'>실습 시작</a>                        |
-|       14 | 📖 🟢 Python 리스트 조작하기                               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-manipulate-lists-in-python-585768'>실습 시작</a>                                 |
-|       15 | 📖 🟢 Python 에서 집합 사용하기                            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-work-with-sets-in-python-585784'>실습 시작</a>                                   |
-|       16 | 📖 🟢 Python 에서 딕셔너리 관리하기                        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-manage-dictionaries-in-python-585767'>실습 시작</a>                              |
-|       17 | 📖 🟢 Python 연산자 이해하기                               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-understand-operators-in-python-585781'>실습 시작</a>                             |
-|       18 | 📖 🟢 Python 연산자 우선순위 이해하기                      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-understand-operator-precedence-in-python-585780'>실습 시작</a>                   |
-|       19 | 📖 🟢 Python 에서 조건문을 사용하여 프로그램 흐름 제어하기 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-control-program-flow-with-conditional-statements-in-python-585758'>실습 시작</a> |
-|       20 | 📖 🟢 Python 에서 루프 이해하기                            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-understand-loops-in-python-585778'>실습 시작</a>                                 |
-|       21 | 📖 🟢 Python 에서 함수 정의 및 사용하기                    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-define-and-use-functions-in-python-585759'>실습 시작</a>                         |
-|       22 | 📖 🟢 Python 함수 매개변수 이해하기                        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-understand-function-parameters-in-python-585774'>실습 시작</a>                   |
-|       23 | 📖 🟢 Python 함수 반환 값 및 스코프 이해하기               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-understand-function-return-values-and-scope-in-python-585775'>실습 시작</a>      |
-|       24 | 📖 🟢 Python 에서 Lambda 함수 사용하기                     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-use-lambda-functions-in-python-585782'>실습 시작</a>                             |
-|       25 | 📖 🟢 Docstring 을 사용한 Python 함수 문서화               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-documenting-python-functions-with-docstrings-585761'>실습 시작</a>               |
-|       26 | 📖 🟢 Python 오류 및 예외 이해하기                         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-understand-errors-and-exceptions-in-python-585773'>실습 시작</a>                 |
-|       27 | 📖 🟢 Python try except 로 예외 처리하기                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-handle-exceptions-with-try-except-in-python-585764'>실습 시작</a>                |
-|       28 | 📖 🟢 Python 에서 클래스와 객체 정의하기                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-define-classes-and-objects-in-python-585760'>실습 시작</a>                       |
-|       29 | 📖 🟢 Python 클래스 기능 이해하기                          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-understand-class-features-in-python-585771'>실습 시작</a>                        |
-|       30 | 📖 🟢 Python 클래스의 특수 메서드 탐색                     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-explore-special-methods-in-python-classes-585763'>실습 시작</a>                  |
-|       31 | 📖 🟢 Python 데코레이터 이해하기                           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-understand-decorators-in-python-585772'>실습 시작</a>                            |
+|   인덱스 | 이름                                        | 난이도   | 연습                                                                                                                        |
+|----------|---------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------|
+|        1 | 📖 🆓 파이썬 개발 도구 탐색                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-explore-python-development-tools-585762'>실습 시작</a>        |
+|        2 | 📖 🆓 VS Code 를 활용한 파이썬 개발         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-use-vs-code-for-python-development-585783'>실습 시작</a>      |
+|        3 | 📖 🆓 간단한 Python 프로그램 작성 및 디버깅 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-write-and-debug-a-simple-python-program-585786'>실습 시작</a> |
+|        4 | 📖 🆓 Python 에서 문자 인코딩 이해하기      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-understand-character-encoding-in-python-585770'>실습 시작</a> |
+|        5 | 📖 🆓 Python 식별자 이해하기                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-understand-identifiers-in-python-585776'>실습 시작</a>        |
 
 ## 환경
 
