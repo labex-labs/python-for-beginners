@@ -16,17 +16,17 @@
 
 ## 练习
 
-|   序号 | 名称                                | 难度   | 练习                                                                                                                       |
-|--------|-------------------------------------|--------|----------------------------------------------------------------------------------------------------------------------------|
-|      1 | 📖 🆓 探索 Python 开发工具          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-explore-python-development-tools-585762'>开始实验</a>        |
-|      2 | 📖 🆓 使用 VS Code 进行 Python 开发 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-use-vs-code-for-python-development-585783'>开始实验</a>      |
-|      3 | 📖 🆓 编写和调试简单的 Python 程序  | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-write-and-debug-a-simple-python-program-585786'>开始实验</a> |
-|      4 | 📖 🆓 理解 Python 中的字符编码      | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-understand-character-encoding-in-python-585770'>开始实验</a> |
-|      5 | 📖 🆓 理解 Python 中的标识符        | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-understand-identifiers-in-python-585776'>开始实验</a>        |
+|   序号 | 名称                                | 难度   | 练习                                                                                                                                              |
+|--------|-------------------------------------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+|      1 | 🧩 🆓 探索 Python 开发工具          | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-explore-python-development-tools-585762?course=python-for-beginners'>开始实验</a>        |
+|      2 | 🧩 🆓 使用 VS Code 进行 Python 开发 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-use-vs-code-for-python-development-585783?course=python-for-beginners'>开始实验</a>      |
+|      3 | 🧩 🆓 编写和调试简单的 Python 程序  | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-write-and-debug-a-simple-python-program-585786?course=python-for-beginners'>开始实验</a> |
+|      4 | 🧩 🆓 理解 Python 中的字符编码      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-understand-character-encoding-in-python-585770?course=python-for-beginners'>开始实验</a> |
+|      5 | 🧩 🆓 理解 Python 中的标识符        | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-understand-identifiers-in-python-585776?course=python-for-beginners'>开始实验</a>        |
 
 ## 关于 LabEx
 
-LabEx 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），LabEx 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
+[LabEx](https://labex.io) 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），[LabEx](https://labex.io) 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
 
 ## 更多
 
