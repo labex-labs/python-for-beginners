@@ -16,17 +16,17 @@
 
 ## 연습
 
-|   인덱스 | 이름                                        | 난이도   | 연습                                                                                                                        |
-|----------|---------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 🆓 파이썬 개발 도구 탐색                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-explore-python-development-tools-585762'>실습 시작</a>        |
-|        2 | 📖 🆓 VS Code 를 활용한 파이썬 개발         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-use-vs-code-for-python-development-585783'>실습 시작</a>      |
-|        3 | 📖 🆓 간단한 Python 프로그램 작성 및 디버깅 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-write-and-debug-a-simple-python-program-585786'>실습 시작</a> |
-|        4 | 📖 🆓 Python 에서 문자 인코딩 이해하기      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-understand-character-encoding-in-python-585770'>실습 시작</a> |
-|        5 | 📖 🆓 Python 식별자 이해하기                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-understand-identifiers-in-python-585776'>실습 시작</a>        |
+|   인덱스 | 이름                                        | 난이도   | 연습                                                                                                                                               |
+|----------|---------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+|        1 | 🧩 🆓 파이썬 개발 도구 탐색                 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-explore-python-development-tools-585762?course=python-for-beginners'>실습 시작</a>        |
+|        2 | 🧩 🆓 VS Code 를 활용한 파이썬 개발         | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-use-vs-code-for-python-development-585783?course=python-for-beginners'>실습 시작</a>      |
+|        3 | 🧩 🆓 간단한 Python 프로그램 작성 및 디버깅 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-write-and-debug-a-simple-python-program-585786?course=python-for-beginners'>실습 시작</a> |
+|        4 | 🧩 🆓 Python 에서 문자 인코딩 이해하기      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-understand-character-encoding-in-python-585770?course=python-for-beginners'>실습 시작</a> |
+|        5 | 🧩 🆓 Python 식별자 이해하기                | 초급     | <a target='_blank' href='https://labex.io/ko/labs/python-understand-identifiers-in-python-585776?course=python-for-beginners'>실습 시작</a>        |
 
 ## LabEx 소개
 
-LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, LabEx 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
+[LabEx](https://labex.io) 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, [LabEx](https://labex.io) 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
 
 ## 더 보기
 
