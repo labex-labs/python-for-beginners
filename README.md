@@ -16,17 +16,17 @@ Kickstart your Python programming journey with this comprehensive beginner cours
 
 ## Exercises
 
-|   Index | Name                                          | Difficulty   | Practice                                                                                                                 |
-|---------|-----------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 🆓 Explore Python Development Tools        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-explore-python-development-tools-585762'>Start Lab</a>        |
-|       2 | 📖 🆓 Use VS Code for Python Development      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-use-vs-code-for-python-development-585783'>Start Lab</a>      |
-|       3 | 📖 🆓 Write and Debug a Simple Python Program | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-write-and-debug-a-simple-python-program-585786'>Start Lab</a> |
-|       4 | 📖 🆓 Understand Character Encoding in Python | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-understand-character-encoding-in-python-585770'>Start Lab</a> |
-|       5 | 📖 🆓 Understand Identifiers in Python        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-understand-identifiers-in-python-585776'>Start Lab</a>        |
+|   Index | Name                                          | Difficulty   | Practice                                                                                                                                        |
+|---------|-----------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | 🧩 🆓 Explore Python Development Tools        | Beginner     | <a target='_blank' href='https://labex.io/labs/python-explore-python-development-tools-585762?course=python-for-beginners'>Start Lab</a>        |
+|       2 | 🧩 🆓 Use VS Code for Python Development      | Beginner     | <a target='_blank' href='https://labex.io/labs/python-use-vs-code-for-python-development-585783?course=python-for-beginners'>Start Lab</a>      |
+|       3 | 🧩 🆓 Write and Debug a Simple Python Program | Beginner     | <a target='_blank' href='https://labex.io/labs/python-write-and-debug-a-simple-python-program-585786?course=python-for-beginners'>Start Lab</a> |
+|       4 | 🧩 🆓 Understand Character Encoding in Python | Beginner     | <a target='_blank' href='https://labex.io/labs/python-understand-character-encoding-in-python-585770?course=python-for-beginners'>Start Lab</a> |
+|       5 | 🧩 🆓 Understand Identifiers in Python        | Beginner     | <a target='_blank' href='https://labex.io/labs/python-understand-identifiers-in-python-585776?course=python-for-beginners'>Start Lab</a>        |
 
 ## About LabEx
 
-LabEx is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience. With a strict 'Learn by Doing' approach, interactive online environments in the browser with automated step-by-step checks, structured content organization through the Skill Tree learning system, and a growing resource of 30 Skill Trees and over 6,000 Labs, LabEx offers comprehensive practical education. The platform includes Labby, an AI learning assistant built on latest AI models, providing a conversational learning experience.
+[LabEx](https://labex.io) is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience. With a strict 'Learn by Doing' approach, interactive online environments in the browser with automated step-by-step checks, structured content organization through the [Skill Tree](https://labex.io/learn) learning system, and a growing resource of 30 Skill Trees and over 6,000 Labs, [LabEx](https://labex.io) offers comprehensive practical education. The platform includes Labby, an AI learning assistant built on latest AI models, providing a conversational learning experience.
 
 ## More
 
