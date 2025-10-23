@@ -16,17 +16,17 @@ Démarrez votre voyage de programmation Python avec ce cours complet pour début
 
 ## Exercices
 
-|   Index | Nom                                                  | Difficulté   | Pratique                                                                                                                           |
-|---------|------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 🆓 Explorer les outils de développement Python    | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/python-explore-python-development-tools-585762'>Commencer le Lab</a>        |
-|       2 | 📖 🆓 Développement Python avec VS Code              | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/python-use-vs-code-for-python-development-585783'>Commencer le Lab</a>      |
-|       3 | 📖 🆓 Écrire et déboguer un programme Python simple  | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/python-write-and-debug-a-simple-python-program-585786'>Commencer le Lab</a> |
-|       4 | 📖 🆓 Comprendre l'encodage des caractères en Python | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/python-understand-character-encoding-in-python-585770'>Commencer le Lab</a> |
-|       5 | 📖 🆓 Comprendre les identificateurs en Python       | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/python-understand-identifiers-in-python-585776'>Commencer le Lab</a>        |
+|   Index | Nom                                                  | Difficulté   | Pratique                                                                                                                                                  |
+|---------|------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | 🧩 🆓 Explorer les outils de développement Python    | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/python-explore-python-development-tools-585762?course=python-for-beginners'>Commencer le Lab</a>        |
+|       2 | 🧩 🆓 Développement Python avec VS Code              | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/python-use-vs-code-for-python-development-585783?course=python-for-beginners'>Commencer le Lab</a>      |
+|       3 | 🧩 🆓 Écrire et déboguer un programme Python simple  | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/python-write-and-debug-a-simple-python-program-585786?course=python-for-beginners'>Commencer le Lab</a> |
+|       4 | 🧩 🆓 Comprendre l'encodage des caractères en Python | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/python-understand-character-encoding-in-python-585770?course=python-for-beginners'>Commencer le Lab</a> |
+|       5 | 🧩 🆓 Comprendre les identificateurs en Python       | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/python-understand-identifiers-in-python-585776?course=python-for-beginners'>Commencer le Lab</a>        |
 
 ## À propos de LabEx
 
-LabEx est une plateforme d'apprentissage interactive et pratique dédiée au codage et à la technologie. Elle combine des laboratoires, une assistance IA et des machines virtuelles pour offrir une expérience d'apprentissage pratique sans vidéo. Avec une approche stricte 'Apprendre en Faisant', des environnements en ligne interactifs dans le navigateur avec des vérifications automatisées étape par étape, une organisation structurée du contenu avec le système basé sur l'Arbre de Compétences, et une ressource d'apprentissage croissante de 30 Arbres de Compétences et plus de 6 000 Laboratoires, LabEx offre une éducation pratique complète. La plateforme comprend l'assistant d'apprentissage Labby, construit sur les derniers modèles d'IA, offrant une expérience d'apprentissage conversationnelle.
+[LabEx](https://labex.io) est une plateforme d'apprentissage interactive et pratique dédiée au codage et à la technologie. Elle combine des laboratoires, une assistance IA et des machines virtuelles pour offrir une expérience d'apprentissage pratique sans vidéo. Avec une approche stricte 'Apprendre en Faisant', des environnements en ligne interactifs dans le navigateur avec des vérifications automatisées étape par étape, une organisation structurée du contenu avec le système basé sur l'Arbre de Compétences, et une ressource d'apprentissage croissante de 30 Arbres de Compétences et plus de 6 000 Laboratoires, [LabEx](https://labex.io) offre une éducation pratique complète. La plateforme comprend l'assistant d'apprentissage Labby, construit sur les derniers modèles d'IA, offrant une expérience d'apprentissage conversationnelle.
 
 ## Plus
 
